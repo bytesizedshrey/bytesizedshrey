@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    color: #ff007f; /* Red */
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#start {
+    background-color: #ff007f; /* Red */
+    color: #fff;
+    margin-right: 10px;
+}
+
+#stop {
+    background-color: #ff69b4; /* Pink */
+    color: #fff;
+}
+
+#start.clicked {
+    background-color: red; /* Red when clicked */
+}
+
+#start:hover {
+    background-color: #ff1493; /* Darker pink */
+}
+
