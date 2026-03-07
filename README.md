@@ -26,15 +26,6 @@ I enjoy transforming ideas into **clean interfaces and interactive user experien
 🤝 Open to collaborating on **creative frontend projects**
 
 ---
-
-<div align="center">
-
-<img src="https://github.com/bytesizedshrey/bytesizedshrey/assets/110947127/cda334ae-0012-4497-9760-fab6e3052927" width="200"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
