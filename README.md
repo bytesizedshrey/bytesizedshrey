@@ -84,11 +84,3 @@ I enjoy transforming ideas into **clean interfaces and interactive user experien
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </p>
-
----
-
-<p align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=bytesizedshrey&icon=2&color=6"/>
-
-</p>
