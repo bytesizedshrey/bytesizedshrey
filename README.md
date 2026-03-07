@@ -10,8 +10,7 @@
 
 <div align="center">
 
-Frontend Developer passionate about building **modern, responsive, and visually refined web experiences**.  
-I enjoy transforming ideas into **clean interfaces and interactive user experiences** using modern frontend technologies.
+Frontend Engineer — React, JavaScript, UI Systems.
 
 </div>
 
