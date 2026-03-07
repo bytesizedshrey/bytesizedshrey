@@ -77,10 +77,10 @@ I enjoy transforming ideas into **clean interfaces and interactive user experien
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=bytesizedshrey&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
