@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Shreyash Gajbhiye 👋
+# Hi, I'm bytesizedshrey 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+HTML+%7C+CSS+%7C+Tailwind;Building+Clean+Modern+Interfaces;Crafting+Beautiful+Web+Experiences" />
 
