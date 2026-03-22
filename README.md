@@ -18,11 +18,11 @@ Frontend Engineer — React, JavaScript, UI Systems.
 
 #  About Me
 
- Frontend developer focused on **modern UI and web experiences**  
- Building interfaces using **React.js, HTML, CSS, and Tailwind CSS**  
- Passionate about **minimal design and smooth interactions**  
- Continuously improving **frontend engineering and UI architecture**  
- Open to collaborating on **creative frontend projects**
+ Frontend developer focused on **modern UI and web experiences.**  
+ Building interfaces using **React.js, HTML, CSS, and Tailwind CSS.**  
+ Passionate about **minimal design and smooth interactions.**  
+ Continuously improving **frontend engineering and UI architecture.**  
+ Open to collaborating on **creative frontend projects.**
 
 ---
 #  Connect With Me
