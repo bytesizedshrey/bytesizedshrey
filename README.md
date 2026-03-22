@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm bytesizedshrey 👋
+# Hi, I'm bytesizedshrey 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+HTML+%7C+CSS+%7C+Tailwind;Building+Clean+Modern+Interfaces;Crafting+Beautiful+Web+Experiences" />
 
@@ -16,16 +16,16 @@ Frontend Engineer — React, JavaScript, UI Systems.
 
 ---
 
-# 💫 About Me
+#  About Me
 
-✨ Frontend developer focused on **modern UI and web experiences**  
-⚛️ Building interfaces using **React.js, HTML, CSS, and Tailwind CSS**  
-🎨 Passionate about **minimal design and smooth interactions**  
-🚀 Continuously improving **frontend engineering and UI architecture**  
-🤝 Open to collaborating on **creative frontend projects**
+ Frontend developer focused on **modern UI and web experiences**  
+ Building interfaces using **React.js, HTML, CSS, and Tailwind CSS**  
+ Passionate about **minimal design and smooth interactions**  
+ Continuously improving **frontend engineering and UI architecture**  
+ Open to collaborating on **creative frontend projects**
 
 ---
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -45,7 +45,7 @@ Frontend Engineer — React, JavaScript, UI Systems.
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
