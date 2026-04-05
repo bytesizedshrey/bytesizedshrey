@@ -60,10 +60,3 @@ Frontend Engineer — React, JavaScript, UI Systems.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bytesizedshrey&theme=tokyonight&hide_border=true"/>
-
-</p>
