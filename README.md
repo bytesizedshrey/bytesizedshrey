@@ -58,7 +58,6 @@ const shrey = {
     interests: [
         "Clean Architecture",
         "Performance Optimization",
-        "Cybersecurity",
         "Modern Web Apps",
         "AI Engineering"
     ],
