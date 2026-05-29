@@ -1,23 +1,34 @@
 <div align="center">
 
-<!--  D O T - M A T R I X   H E A D E R  -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=3&section=header"/>
+<br/>
 
 ```
-  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-  ·  ·  ·  ·  S H R E Y  ·  ·  ·  F U L L  S T A C K  ·  ·  ·  M E R N  ·  ·  ·  ·  ·  ·  ·
-  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=MongoDB+%C2%B7+Express+%C2%B7+React+%C2%B7+Node.js;building+things+that+shouldn't+work+but+do;minimal+design.+maximum+impact.;currently+teaching+machines+to+do+my+job.)
+```
+  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+  ·                                                               ·
+  ·     l o c a l h o s t s h r e y                             ·
+  ·     ─────────────────────────────                           ·
+  ·     Full Stack Developer  ·  MERN  ·  Building in Public    ·
+  ·                                                               ·
+  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+```
 
-</div>
+```
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+```
+
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=4000&pause=1200&color=555555&center=true&vCenter=true&width=580&lines=MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node.js;ships+things.+fixes+them+later.;minimal+design.+maximum+impact.;currently+learning+AI+before+it+learns+me.)
 
 <br/>
 
+</div>
+
 ---
+
+<br/>
 
 ## `$ whoami`
 
@@ -35,8 +46,8 @@ const shrey = {
   },
 
   currentlyLearning : ["AI Engineering", "LLMs", "System Design"],
-  currentlyBuilding : "Scalable full stack products that may or may not survive production",
-  philosophy        : "Minimal design. Maximum impact.",
+  currentlyBuilding : "scalable full stack products that may or may not survive production",
+  philosophy        : "minimal design. maximum impact.",
 
   lifeInProduction  : {
     coffeeConsumed  : "∞",
@@ -45,110 +56,43 @@ const shrey = {
     stackOverflow   : "open in 12 tabs at all times",
   },
 
-  warning: "Do not ask me to estimate deadlines."
+  warning: "do not ask me to estimate deadlines."
 } as const;
 ```
 
+<br/>
+
 ---
 
 <br/>
 
-<!--  D O T - M A T R I X   D I V I D E R  -->
-
-```
-  · · · · · · · · · · · ·   S T A C K   · · · · · · · · · · · ·
-```
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="120">
+```
+  ·  ·  ·  ·  ·  ·  ·  ·  S T A C K  ·  ·  ·  ·  ·  ·  ·  ·
+```
+
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=4d4d4d&labelColor=111111)
+![Express](https://img.shields.io/badge/Express.js-1a1a1a?style=flat-square&logo=express&logoColor=4d4d4d&labelColor=111111)
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=4d4d4d&labelColor=111111)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=4d4d4d&labelColor=111111)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=4d4d4d&labelColor=111111)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-1a1a1a?style=flat-square&logo=tailwind-css&logoColor=4d4d4d&labelColor=111111)
+![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=flat-square&logo=vite&logoColor=4d4d4d&labelColor=111111)
+![JWT](https://img.shields.io/badge/JWT-1a1a1a?style=flat-square&logo=jsonwebtokens&logoColor=4d4d4d&labelColor=111111)
+
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=4d4d4d&labelColor=111111)
+![Postman](https://img.shields.io/badge/Postman-1a1a1a?style=flat-square&logo=postman&logoColor=4d4d4d&labelColor=111111)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square&logo=visual-studio-code&logoColor=4d4d4d&labelColor=111111)
+
 <br/>
 
 ```
-· · · ·
-·     ·
-· UI  ·
-·     ·
-· · · ·
+  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
 ```
-
-**React**
-
-</td>
-<td align="center" width="120">
-<br/>
-
-```
-· · · ·
-·     ·
-· UI  ·
-·     ·
-· · · ·
-```
-
-**JavaScript**
-
-</td>
-<td align="center" width="120">
-<br/>
-
-```
-· · · ·
-·     ·
-· UI  ·
-·     ·
-· · · ·
-```
-
-**Tailwind**
-
-</td>
-<td align="center" width="120">
-<br/>
-
-```
-· · · ·
-·     ·
-· SRV ·
-·     ·
-· · · ·
-```
-
-**Node.js**
-
-</td>
-<td align="center" width="120">
-<br/>
-
-```
-· · · ·
-·     ·
-· SRV ·
-·     ·
-· · · ·
-```
-
-**Express**
-
-</td>
-<td align="center" width="120">
-<br/>
-
-```
-· · · ·
-·     ·
-· DB  ·
-·     ·
-· · · ·
-```
-
-**MongoDB**
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -156,92 +100,77 @@ const shrey = {
 
 ---
 
-```
-  · · · · · · · · · · · ·   S T A T S   · · · · · · · · · · · ·
-```
+<br/>
 
 <div align="center">
 
-<a href="https://github.com/localhostshrey">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=localhostshrey&show_icons=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=999999&text_color=666666&icon_color=888888&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github" />
-</a>
-&nbsp;
-<a href="https://github.com/localhostshrey">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=localhostshrey&layout=compact&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=999999&text_color=666666&langs_count=6" />
-</a>
+```
+  ·  ·  ·  ·  ·  ·  ·  S T A T S  ·  ·  ·  ·  ·  ·  ·  ·  ·
+```
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=localhostshrey&show_icons=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=505050&text_color=404040&icon_color=505050&include_all_commits=true&count_private=true&hide_title=false&rank_icon=github&custom_title=localhostshrey" height="155"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=localhostshrey&layout=compact&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=505050&text_color=404040&langs_count=6&custom_title=languages" height="155"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=localhostshrey&theme=dark&hide_border=true&background=0D0D0D&ring=505050&fire=505050&currStreakLabel=505050&sideLabels=404040&dates=383838&currStreakNum=606060&sideNums=606060&stroke=0d0d0d"/>
+
+<br/>
+
+```
+  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+```
 
 </div>
 
-<div align="center">
+<br/>
 
-<a href="https://github.com/localhostshrey">
-  <img src="https://streak-stats.demolab.com?user=localhostshrey&theme=dark&hide_border=true&background=0d0d0d&ring=666666&fire=888888&currStreakLabel=999999&sideLabels=666666&dates=444444&currStreakNum=aaaaaa&sideNums=aaaaaa&stroke=0d0d0d" />
-</a>
+---
 
-</div>
+<br/>
+
+## `$ tail -f process.log`
+
+```
+  ┌─────────────────────────────────────────────────────────────┐
+  │                                                             │
+  │   BUILD      full stack MERN applications, end to end      │
+  │   LEARN      AI Engineering · LLMs · System Design         │
+  │   PREFER     clean architecture over clever hacks          │
+  │   AVOID      magic, tech debt, and deploying on Fridays    │
+  │                                                             │
+  │   [WARN]     estimates are aspirational, not contractual   │
+  │   [WARN]     will refactor working code. it felt wrong.    │
+  │   [ERROR]    pushed "final_fix_v3" to prod. silence.       │
+  │                                                             │
+  │   STATUS     operational · mostly · do not poke            │
+  │                                                             │
+  └─────────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
 ---
 
-```
-  · · · · · · · · · · · ·   L O G S   · · · · · · · · · · · · ·
-```
-
-```
- [ INFO  ] role         → Full Stack MERN Developer
- [ INFO  ] preference   → clean architecture, readable code, zero magic
- [ INFO  ] pipeline     → Mongoose schema → Express route → React component
- [ LEARN ] queue        → AI Engineering, LLMs, System Design
- [ WARN  ] estimation   → unreliable. do not use in production.
- [ WARN  ] refactor     → will rewrite working code because it "feels wrong"
- [ ERROR ] production   → something broke after "final final fix v3"
- [ ERROR ] timeline     → pushed "just a small change" on a friday
- [ INFO  ] status       → operational. mostly.
-```
-
----
-
-```
-  · · · · · · · · · · · ·   C O M M I T S   · · · · · · · · · ·
-```
-
-```
- a1b2c3d  feat: it works, don't touch it, don't ask why
- e4f5g6h  fix: that thing from last week. yes, that one.
- i7j8k9l  refactor: renamed things to what they actually are
- m0n1o2p  chore: removed console.logs (most of them)
- q3r4s5t  docs: wrote comments future-me will not understand
- u6v7w8x  feat: shipped before thinking too hard. tradition.
-```
-
 <br/>
-
----
 
 <div align="center">
 
 ```
-· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
-·                                                               ·
-·   "99% of debugging is staring at the screen until the bug   ·
-·        feels guilty. the other 1% is wrong file."            ·
-·                                                               ·
-· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+  ·                                                           ·
+  ·   minimal design.  maximum impact.  ship it.             ·
+  ·                                                           ·
+  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
 ```
 
 <br/>
 
-![](https://img.shields.io/badge/localhostshrey-0d0d0d?style=flat-square&labelColor=0d0d0d&color=333333&label=&logo=github&logoColor=888888)
-&nbsp;
-![](https://img.shields.io/badge/MERN-0d0d0d?style=flat-square&color=1a1a1a&labelColor=1a1a1a&label=stack&logoColor=888888)
-&nbsp;
-![](https://komarev.com/ghpvc/?username=localhostshrey&color=1a1a1a&style=flat-square&label=views)
+![](https://komarev.com/ghpvc/?username=localhostshrey&color=1a1a1a&style=flat-square&label=profile+views)
 
 <br/>
-
-```
-  · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
-```
 
 </div>
