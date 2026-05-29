@@ -2,17 +2,15 @@
 
 <br/>
 
-```
-  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-  ·                                                                     ·
-  ·        l o c a l h o s t s h r e y                                 ·
-  ·        ─────────────────────────────                                ·
-  ·        Full Stack Developer  ·  MERN                        ·
-  ·                                                                     ·
-  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-```
-
-<br/>
+<pre>
+·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+·                                                                  ·
+·       l o c a l h o s t s h r e y                               ·
+·       ─────────────────────────────                              ·
+·       Full Stack Developer  ·  MERN  ·  IST                     ·
+·                                                                  ·
+·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+</pre>
 
 ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=1200&color=707070&center=true&vCenter=true&width=500&lines=MongoDB+%C2%B7+Express+%C2%B7+React+%C2%B7+Node.js;ships+things.+fixes+them+later.;minimal+design.+maximum+impact.;learning+AI+before+it+learns+me.)
 
@@ -62,9 +60,7 @@ const shrey = {
 
 <div align="center">
 
-```
-  ·  ·  ·  ·  ·  ·  ·  ·  S T A C K  ·  ·  ·  ·  ·  ·  ·  ·
-```
+<pre>·  ·  ·  ·  ·  ·  ·  ·  S T A C K  ·  ·  ·  ·  ·  ·  ·  ·</pre>
 
 <br/>
 
@@ -82,9 +78,7 @@ const shrey = {
 
 <br/>
 
-```
-  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-```
+<pre>·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·</pre>
 
 </div>
 
@@ -96,9 +90,7 @@ const shrey = {
 
 <div align="center">
 
-```
-  ·  ·  ·  ·  ·  ·  ·  S T A T S  ·  ·  ·  ·  ·  ·  ·  ·  ·
-```
+<pre>·  ·  ·  ·  ·  ·  ·  S T A T S  ·  ·  ·  ·  ·  ·  ·  ·  ·</pre>
 
 <br/>
 
@@ -112,9 +104,7 @@ const shrey = {
 
 <br/>
 
-```
-  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-```
+<pre>·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·</pre>
 
 </div>
 
@@ -124,24 +114,30 @@ const shrey = {
 
 <br/>
 
-## `$ tail -f process.log`
+<div align="center">
 
-```
-  ┌──────────────────────────────────────────────────────────┐
-  │                                                          │
-  │  BUILD     full stack MERN — schema to component        │
-  │  LEARN     AI Engineering · LLMs · System Design        │
-  │  PREFER    clean architecture over clever hacks         │
-  │  AVOID     magic, tech debt, Friday deploys             │
-  │                                                          │
-  │  [WARN]    estimates are aspirational, not binding      │
-  │  [WARN]    will refactor working code. it felt wrong.   │
-  │  [ERROR]   pushed "final_fix_v3" to prod. silence.      │
-  │                                                          │
-  │  STATUS    operational · mostly · do not poke           │
-  │                                                          │
-  └──────────────────────────────────────────────────────────┘
-```
+<pre>·  ·  ·  ·  ·  ·  ·  ·  L O G S  ·  ·  ·  ·  ·  ·  ·  ·  ·</pre>
+
+<br/>
+
+<pre>
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  BUILD     full stack MERN — schema to component        │
+│  LEARN     AI Engineering · LLMs · System Design        │
+│  PREFER    clean architecture over clever hacks         │
+│  AVOID     magic, tech debt, Friday deploys             │
+│                                                          │
+│  [WARN]    estimates are aspirational, not binding      │
+│  [WARN]    will refactor working code. it felt wrong.   │
+│  [ERROR]   pushed "final_fix_v3" to prod. silence.      │
+│                                                          │
+│  STATUS    operational · mostly · do not poke           │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+</pre>
+
+</div>
 
 <br/>
 
@@ -151,16 +147,16 @@ const shrey = {
 
 <div align="center">
 
-```
-  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-  ·                                                           ·
-  ·        minimal design.  maximum impact.  ship it.        ·
-  ·                                                           ·
-  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-```
+<pre>
+·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+·        minimal design.  maximum impact.  ship it.        ·
+·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+</pre>
 
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=bytesizedshrey&color=1a1a1a&style=flat-square&label=views)
+
+<br/>
 
 </div>
