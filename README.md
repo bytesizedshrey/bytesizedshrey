@@ -86,27 +86,6 @@ const shrey = {
 <br/>
 
 ---
-
-<br/>
-
-<div align="center">
-
-<pre>·  ·  ·  ·  ·  ·  ·  S T A T S  ·  ·  ·  ·  ·  ·  ·  ·  ·</pre>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bytesizedshrey&theme=dark&hide_border=true&background=0D0D0D&ring=555555&fire=666666&currStreakLabel=606060&sideLabels=505050&dates=404040&currStreakNum=707070&sideNums=707070&stroke=0d0d0d&card_width=500)](https://git.io/streak-stats)
-
-<br/>
-
-<pre>·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·</pre>
-
-</div>
-
-<br/>
-
----
-
 <br/>
 
 <div align="center">
