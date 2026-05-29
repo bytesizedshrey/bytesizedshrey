@@ -7,12 +7,12 @@
 ·                                                                  ·
 ·       l o c a l h o s t s h r e y                               ·
 ·       ─────────────────────────────                              ·
-·       Full Stack Developer  ·  MERN  ·  IST                     ·
+·       full stack dev  ·  mern  ·  ist  ·  he/him                ·
 ·                                                                  ·
 ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
 </pre>
 
-![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=1200&color=707070&center=true&vCenter=true&width=500&lines=MongoDB+%C2%B7+Express+%C2%B7+React+%C2%B7+Node.js;ships+things.+fixes+them+later.;minimal+design.+maximum+impact.;learning+AI+before+it+learns+me.)
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=1200&color=707070&center=true&vCenter=true&width=560&lines=mongodb+%C2%B7+express+%C2%B7+react+%C2%B7+node.js;ships+features.+free+bug+included.;minimal+design.+maximum+impact.;learning+AI+before+it+learns+me+fr.)
 
 <br/>
 
@@ -94,11 +94,17 @@ const shrey = {
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=bytesizedshrey&show_icons=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=606060&text_color=505050&icon_color=555555&include_all_commits=true&count_private=true&rank_icon=github&custom_title=activity"/>
-&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytesizedshrey&layout=compact&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=606060&text_color=505050&langs_count=6&custom_title=languages"/>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bytesizedshrey&theme=transparent)](https://github.com/bytesizedshrey)
 
-<br/><br/>
+<br/>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bytesizedshrey&theme=transparent)](https://github.com/bytesizedshrey)
+&nbsp;
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bytesizedshrey&theme=transparent)](https://github.com/bytesizedshrey)
+&nbsp;
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bytesizedshrey&theme=transparent)](https://github.com/bytesizedshrey)
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=bytesizedshrey&theme=dark&hide_border=true&background=0D0D0D&ring=555555&fire=555555&currStreakLabel=606060&sideLabels=505050&dates=404040&currStreakNum=707070&sideNums=707070&stroke=0d0d0d"/>
 
@@ -121,20 +127,21 @@ const shrey = {
 <br/>
 
 <pre>
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  BUILD     full stack MERN — schema to component        │
-│  LEARN     AI Engineering · LLMs · System Design        │
-│  PREFER    clean architecture over clever hacks         │
-│  AVOID     magic, tech debt, Friday deploys             │
-│                                                          │
-│  [WARN]    estimates are aspirational, not binding      │
-│  [WARN]    will refactor working code. it felt wrong.   │
-│  [ERROR]   pushed "final_fix_v3" to prod. silence.      │
-│                                                          │
-│  STATUS    operational · mostly · do not poke           │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  fr tho      i build full stack MERN apps end to end        │
+│  no cap       currently cooked on AI + LLMs + sys design    │
+│  based        clean arch > clever hacks. always.            │
+│  lowkey       git commit -m "fix" (wasn't a fix)            │
+│                                                              │
+│  [WARN]       timelines are vibes, not promises             │
+│  [WARN]       refactored perfectly fine code. felt icky.    │
+│  [ERROR]      deployed on a friday. learned nothing.        │
+│  [ERROR]      "works on my machine" closed as resolved      │
+│                                                              │
+│  STATUS       online · kinda cooked · do not ping           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 </pre>
 
 </div>
@@ -149,7 +156,7 @@ const shrey = {
 
 <pre>
 ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-·        minimal design.  maximum impact.  ship it.        ·
+·       minimal design.  maximum impact.  no cap.           ·
 ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
 </pre>
 
