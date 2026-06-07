@@ -2,16 +2,6 @@
 
 <br/>
 
-<pre>
-·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-·                                                                  ·
-·       l o c a l h o s t s h r e y                               ·
-·       ─────────────────────────────                              ·
-·       full stack dev  ·  mern  ·  ist  ·  cooked 24/7           ·
-·                                                                  ·
-·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-</pre>
-
 ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=1200&color=707070&center=true&vCenter=true&width=560&lines=mongodb+%C2%B7+express+%C2%B7+react+%C2%B7+node.js;no+cap+this+actually+works+in+prod;ate+and+left+no+crumbs+%28mostly%29;learning+AI+before+it+learns+my+job+fr)
 
 <br/>
@@ -56,79 +46,6 @@ const shrey = {
 <br/>
 
 ---
-
-<br/>
-
-<div align="center">
-
-<pre>·  ·  ·  ·  ·  ·  ·  ·  S T A C K  ·  ·  ·  ·  ·  ·  ·  ·</pre>
-
-<br/>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=555555&labelColor=111111)
-![Express](https://img.shields.io/badge/Express.js-111111?style=flat-square&logo=express&logoColor=555555&labelColor=111111)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=555555&labelColor=111111)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=555555&labelColor=111111)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=555555&labelColor=111111)
-![Tailwind](https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=555555&labelColor=111111)
-![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=555555&labelColor=111111)
-![JWT](https://img.shields.io/badge/JWT-111111?style=flat-square&logo=jsonwebtokens&logoColor=555555&labelColor=111111)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=555555&labelColor=111111)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=555555&labelColor=111111)
-![Postman](https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=555555&labelColor=111111)
-
-<br/>
-
-<pre>·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·</pre>
-
-</div>
-
-<br/>
-
----
-<br/>
-
-<div align="center">
-
-<pre>·  ·  ·  ·  ·  ·  ·  ·  L O G S  ·  ·  ·  ·  ·  ·  ·  ·  ·</pre>
-
-<br/>
-
-<pre>
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  BUILDING    mern apps end-to-end, no cap                   │
-│  LEARNING    ai engineering bc gotta stay ahead fr          │
-│  TAKES       clean arch > clever hacks. period.             │
-│  AVOIDING    magic, tech debt, and friday deploys           │
-│                                                              │
-│  [WARN]      deadlines are a vibe not a promise bestie      │
-│  [WARN]      refactored working code bc it felt icky        │
-│  [ERROR]     "final_fix_v3" shipped to prod. radio silence. │
-│  [FATAL]     console.log("here") still in production        │
-│                                                              │
-│  STATUS      sending it · mostly · pls don't check logs     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-</pre>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<pre>
-·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-·     minimal design. maximum impact. zero explanation.     ·
-·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-</pre>
-
-<br/>
 
 ![](https://komarev.com/ghpvc/?username=bytesizedshrey&color=1a1a1a&style=flat-square&label=views)
 
