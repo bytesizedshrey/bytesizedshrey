@@ -1,17 +1,5 @@
 <div align="center">
 
-<br/>
-
-![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=1200&color=707070&center=true&vCenter=true&width=560&lines=mongodb+%C2%B7+express+%C2%B7+react+%C2%B7+node.js;no+cap+this+actually+works+in+prod;ate+and+left+no+crumbs+%28mostly%29;learning+AI+before+it+learns+my+job+fr)
-
-<br/>
-
-</div>
-
----
-
-<br/>
-
 ## `$ whoami`
 
 ```typescript
@@ -42,12 +30,9 @@ const shrey = {
   ngl: "if the code works don't touch it. don't look at it. don't think about it."
 } as const;
 ```
-
 <br/>
 
----
-
-![](https://komarev.com/ghpvc/?username=bytesizedshrey&color=1a1a1a&style=flat-square&label=views)
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=1200&color=707070&center=true&vCenter=true&width=560&lines=mongodb+%C2%B7+express+%C2%B7+react+%C2%B7+node.js;no+cap+this+actually+works+in+prod;ate+and+left+no+crumbs+%28mostly%29;learning+AI+before+it+learns+my+job+fr)
 
 <br/>
 
