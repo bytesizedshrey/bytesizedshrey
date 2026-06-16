@@ -4,7 +4,7 @@
 <table width="100%">
   <tr>
     <td width="60%" valign="middle">
-      <h2>Hey, I'm localhostshrey 👋</h2>
+      <h2>𖠚 localhostshrey </h2>
       <b>Full Stack Developer</b><br><br>
       Based in India, building clean, high-impact stuff that somehow survives production <i>(most days)</i>.<br><br>
       Currently deep in my <b>"building cool sh*t" arc</b>. Mostly living inside the MERN stack, Docker, AWS, and casually throwing some GenAI sauce into the mix.
