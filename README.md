@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ0MnJobGl3Z29wZTJqNXRlaDliMzhqdG9zdnN1M3YxNW15Y2FtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="43%" alt="Banner"/>
-</div>
-
-<br>
 
 <!-- BENTO GRID ROW 1: Greeting + Badges -->
 <table width="100%">
@@ -34,14 +30,6 @@
 </table>
 
 <br>
-
-<!-- TYPING SVG -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=1200&color=707070&center=true&vCenter=true&width=600&lines=MERN+Stack+Dev;Docker+%26+AWS+Enthusiast;GenAI+Sauce+%E2%9C%A8;building+cool+sh*t+at+2am" alt="Typing SVG" />
-</div>
-
-<br>
-
 <!-- BENTO GRID ROW 3: Tech Stack + Activity -->
 <table width="100%">
   <tr>
@@ -60,5 +48,5 @@
 
 <!-- QUOTE -->
 <div align="center">
-  <i>minimal design. maximum impact. questionable sleep schedule.</i>
+  <i>i do have a questionable sleep schedule.</i>
 </div>
