@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Banner"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ0MnJobGl3Z29wZTJqNXRlaDliMzhqdG9zdnN1M3YxNW15Y2FtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%" alt="Banner"/>
 </div>
 
 <br>
@@ -7,27 +7,27 @@
 <table>
   <tr>
     <td colspan="2" align="center" valign="middle">
-      <a href="https://github.com/bytesizedshrey"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://github.com/bytesizedshrey"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"></a>
       &nbsp;
-      <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       &nbsp;
-      <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"></a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="middle">
-      <h3>Hey there! I’m localhostshrey 👋</h3>
+      <h3>Hey there! I'm localhostshrey 👋</h3>
     </td>
   </tr>
   <tr>
-    <td valign="middle" width="70%">
+    <td valign="middle" width="65%">
       <br>
       <b>Full Stack MERN Developer</b><br><br>
       Based in India 🇮🇳. I build minimal, high-impact web apps and deploy things that somehow survive production fr.<br><br>
       Currently cooking up scalable products. My playground revolves around the <b>MERN stack</b>, <b>Docker</b>, <b>AWS</b>, and sprinkling in some gen-ai magic. Debugging my own bad decisions at ungodly hours.<br><br>
     </td>
-    <td align="center" valign="middle" width="30%">
-      <img src="YOUR_PFP_IMAGE" width="220" alt="About Me Portrait"/>
+    <td align="center" valign="middle" width="35%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
@@ -35,24 +35,29 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1200&color=707070&center=true&vCenter=true&width=700&lines=MERN+Stack+Dev;Docker+%26+AWS+Enthusiast;Sprinkled+with+Gen-AI;cooking+cool+internet+stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1200&color=707070&center=true&vCenter=true&width=700&lines=MERN+Stack+Dev;Docker+%26+AWS+Enthusiast;Gen-AI+Sprinkles+%E2%9C%A8;building+cool+internet+stuff+at+3am" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,tailwind,docker,aws,git,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,tailwind,docker,aws,git,vscode,postman&theme=dark" />
 </div>
 
 <br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bytesizedshrey&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=bytesizedshrey&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bytesizedshrey&theme=github-compact&bg_color=0d0d0d&color=888888&line=444444&point=888888&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 <br>
 
 <div align="center">
-  > *minimal design. maximum impact. questionable sleep schedule.*
+  <img src="https://github-profile-trophy.vercel.app/?username=bytesizedshrey&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  > <i>minimal design. maximum impact. questionable sleep schedule.</i>
 </div>
