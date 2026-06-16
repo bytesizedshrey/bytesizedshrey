@@ -20,14 +20,11 @@
     </td>
   </tr>
   <tr>
-    <td valign="middle" width="65%">
+    <td colspan="2" valign="middle">
       <br>
       <b>Full Stack MERN Developer</b><br><br>
       Based in India 🇮🇳. I build minimal, high-impact web apps and deploy things that somehow survive production fr.<br><br>
       Currently cooking up scalable products. My playground revolves around the <b>MERN stack</b>, <b>Docker</b>, <b>AWS</b>, and sprinkling in some gen-ai magic. Debugging my own bad decisions at ungodly hours.<br><br>
-    </td>
-    <td align="center" valign="middle" width="35%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
@@ -50,11 +47,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bytesizedshrey&theme=github-compact&bg_color=0d0d0d&color=888888&line=444444&point=888888&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bytesizedshrey&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
 
 <br>
 
