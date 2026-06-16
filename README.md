@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_BANNER_IMAGE" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Banner"/>
 </div>
 
 <br>
@@ -16,15 +16,15 @@
   </tr>
   <tr>
     <td colspan="2" valign="middle">
-      <h3>Hey there! I’m Shrey 👋</h3>
+      <h3>Hey there! I’m localhostshrey 👋</h3>
     </td>
   </tr>
   <tr>
     <td valign="middle" width="70%">
       <br>
-      <b>Full Stack Developer</b><br><br>
-      I am based in India 🇮🇳 and deeply passionate about crafting minimal design, high-impact web applications, and building things that somehow survive production.<br><br>
-      Currently, I'm focusing my energy on learning <b>AI Engineering</b> and building scalable full-stack products. My technical playground revolves around Next.js, MERN stack, and cool internet stuff.<br><br>
+      <b>Full Stack MERN Developer</b><br><br>
+      Based in India 🇮🇳. I build minimal, high-impact web apps and deploy things that somehow survive production fr.<br><br>
+      Currently cooking up scalable products. My playground revolves around the <b>MERN stack</b>, <b>Docker</b>, <b>AWS</b>, and sprinkling in some gen-ai magic. Debugging my own bad decisions at ungodly hours.<br><br>
     </td>
     <td align="center" valign="middle" width="30%">
       <img src="YOUR_PFP_IMAGE" width="220" alt="About Me Portrait"/>
@@ -35,7 +35,13 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,tailwind,git,vscode,postman" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1200&color=707070&center=true&vCenter=true&width=700&lines=MERN+Stack+Dev;Docker+%26+AWS+Enthusiast;Sprinkled+with+Gen-AI;cooking+cool+internet+stuff" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,tailwind,docker,aws,git,vscode,postman" />
 </div>
 
 <br>
