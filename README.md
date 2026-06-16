@@ -19,26 +19,15 @@
 
 <br>
 
-<!-- BENTO GRID ROW 2: Extended Bio -->
-<table width="100%">
-  <tr>
-    <td align="center" valign="middle">
-      <i>I like scalable products, minimal UI, and fixing bugs caused by decisions made at 2AM by a different version of me.</i><br><br>
-      <i>Probably shipping, breaking, rebuilding, and pretending it was all part of the plan.</i>
-    </td>
-  </tr>
-</table>
-
-<br>
 <!-- BENTO GRID ROW 3: Tech Stack + Activity -->
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <b>⚒️ stack</b><br><br>
+      <b>tech stack</b><br><br>
       <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,tailwind,docker,aws,git,vscode,postman&theme=dark&perline=4" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <b>📈 activity</b><br><br>
+      <b>activity</b><br><br>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=bytesizedshrey&theme=github-compact&bg_color=0d0d0d&color=888888&line=444444&point=888888&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
     </td>
   </tr>
