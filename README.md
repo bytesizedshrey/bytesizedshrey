@@ -5,8 +5,8 @@
   <tr>
     <td width="60%" valign="middle">
       <h2>𖠚 localhostshrey</h2>
-      <b>Full Stack Developer</b>
-      Currently deep in my <b>"building cool sh*t" arc</b>. Mostly living inside the MERN stack, Docker, AWS, and casually throwing some GenAI sauce into the mix.
+      <b>Full Stack Developer</b><br><br>
+      Currently deep in my <b>"building cool sh*t" arc</b>. Mostly living inside the MERN stack, Docker, AWS, Kubernetes, Redis, and casually throwing some GenAI sauce into the mix.
     </td>
     <td width="40%" align="center" valign="middle">
       <a href="https://github.com/bytesizedshrey"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"></a><br><br>
@@ -23,7 +23,7 @@
   <tr>
     <td width="50%" align="center" valign="middle">
       <b>tech stack</b><br><br>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,tailwind,docker,aws,git,vscode,postman&theme=dark&perline=4" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,tailwind,docker,aws,kubernetes,redis,git,vscode,postman&theme=dark&perline=4" />
     </td>
     <td width="50%" align="center" valign="middle">
       <b>activity</b><br><br>
@@ -37,4 +37,6 @@
 <!-- QUOTE -->
 <div align="center">
   <i>i do have a questionable sleep schedule.</i>
+</div>
+
 </div>
