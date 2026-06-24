@@ -9,9 +9,9 @@
       Currently deep in my <b>"building cool sh*t" arc</b>. Mostly living inside the MERN stack, Docker, AWS, Kubernetes, Redis, and casually throwing some GenAI sauce into the mix.
     </td>
     <td width="40%" align="center" valign="middle">
-      <a href="https://github.com/bytesizedshrey"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"></a><br><br>
-      <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
-      <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <!-- <a href="https://github.com/bytesizedshrey"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"></a><br><br> -->
+      <a href="https://www.linkedin.com/in/localhostshrey/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
+      <a href="mailto:thisisitshrey@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"></a>
     </td>
   </tr>
 </table>
